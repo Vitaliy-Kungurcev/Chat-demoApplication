@@ -20,6 +20,9 @@ import java.time.LocalDateTime;
 @Setter
 @NoArgsConstructor
 public class Message {
+    //test1
+    //test2
+    //test3
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
